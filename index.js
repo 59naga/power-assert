@@ -9,7 +9,7 @@
  */
 'use strict';
 
-var baseAssert = require('assert');
+var baseAssert = require('core-assert');
 var empower = require('empower');
 var formatter = require('power-assert-formatter');
 var extend = require('xtend');
